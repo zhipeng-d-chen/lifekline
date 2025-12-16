@@ -2,7 +2,7 @@ import { UserInput, LifeDestinyResult, Gender } from "../types";
 import { BAZI_SYSTEM_INSTRUCTION } from "../constants";
 
 // TODO: 请将您的 OpenAI 格式密钥填入此处
-const API_KEY = "sk-qO64XDyUIUBMEzV6ZElkUz7mNx35t8kYTHKh8ZHoX0GxOoVG"; 
+const API_KEY = "sk-qO64XDyUIUBMEzV6ZElkUz7mNx35t8kYTHKh8ZHo00000000"; 
 const API_BASE_URL = "https://max.openai365.top/v1";
 
 // Helper to determine stem polarity
