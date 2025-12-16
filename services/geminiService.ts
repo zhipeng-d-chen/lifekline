@@ -3,7 +3,7 @@ import { BAZI_SYSTEM_INSTRUCTION } from "../constants";
 
 // TODO: 请将您的 OpenAI 格式密钥填入此处
 const API_KEY = "sk-UnpzkQCEqt3xRSs0FjzxkYKt8SULkjHTGviSoXsHtm0YHtTx"; 
-const API_BASE_URL = "https://max.openai365.top/v1";
+const API_BASE_URL = "https://api2.qiandao.mom/v1";
 
 // Helper to determine stem polarity
 const getStemPolarity = (pillar: string): 'YANG' | 'YIN' => {
